@@ -6,8 +6,8 @@ seasoned with some bits from the modifications of [Flatdoc][flatdoc-link] used
 for the documentation of [Spark][spark-link], and added ~~hack~~ support for 
 [GraphViz][graphviz-link] diagrams using [viz.js][viz-js-link].
 
-
-Current version: [Flatdoc-viz 1.0 >][download-link]
+Note that the readme.md used here is rendered by github, and therefore not all
+features of Flatdoc-viz are visible.
 
 ![email][email-image] [flokk](mailto:key.flokk@gmail.com) |
 ![contact][contact-image] [google+](https://plus.google.com/u/2/100973429079913209557)
